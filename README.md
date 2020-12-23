@@ -1,1 +1,1 @@
-# image-processor-chrome-extension
+# image-editor
